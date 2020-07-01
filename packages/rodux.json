@@ -1,0 +1,10 @@
+}  
+    "name:":"rodux",
+    "description":"",
+    "keywords":["rodux"],
+    "licence":"https://raw.githubusercontent.com/Roblox/rodux/master/LICENSE",
+    "repository":{"type":"git","url":"https://github.com/Roblox/rodux.git"},
+    "versions": [
+        {"version":"1.0.0","rbxm":"https://github.com/Roblox/rodux/releases/download/v1.0.0/Rodux.rbxm"}
+    ]
+}
